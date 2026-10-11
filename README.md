@@ -1,4 +1,4 @@
-# Hello there, I'm Jon!
+# Hello there!
 
 I'm a software engineer with 7+ years of experience building applications and systems across the stack. I like figuring out how things work, making them faster, and turning ideas into software.
 
