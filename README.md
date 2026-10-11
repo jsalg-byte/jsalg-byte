@@ -8,9 +8,9 @@ I'm a software engineer with 7+ years of experience building applications across
 - **[Happy Morgue Mobile](https://github.com/jsalg-byte/happymorgue_mobile)** — A mobile storefront integrating Shopify's Storefront GraphQL API, with a persistent audio player.
 - **[Cliptor Who](https://github.com/jsalg-byte/cliptorwho)** — A livestream clipping tool built around FFmpeg and stream analysis.
 
-### Current Interests
+### Currently exploring
 
-Full-stack development, backend systems, C++, mathematics, and quantitative development.
+C++, quantitative development, mathematics, and low-latency systems.
 
 ### Outside of Code
 
