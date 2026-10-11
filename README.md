@@ -1,19 +1,17 @@
-# Hi! I'm jsalg-byte, itslukecoded, and Jon!
+# Hello there, I'm Jon!
 
-I'm a software engineer with 7+ years of experience building applications, backend systems, and products across the stack. I'm interested in how things work under the hood, how to make them faster, and how to turn ideas into products people actually use.
+I'm a software engineer with 7+ years of experience building applications and systems across the stack. I like figuring out how things work, making them faster, and turning ideas into software.
 
-- **Currently working on:** Full-stack applications, AI-powered tools, and independent software projects.
-- **Currently learning:** Quantitative development, C++, low-latency systems, and AI engineering.
-- **Looking to collaborate on:** Low-latency systems, performance-focused engineering, and indie projects — especially building, launching, and marketing products for everyday use.
-- **Looking for help with:** Discovering new opportunities.
-- **Ask me about:** React, TypeScript, Laravel, Python, software architecture, and full-stack development.
-- **Reach me:** Instagram [@itslukecoded](https://www.instagram.com/itslukecoded/)
-- **Fun fact:** Outside of software, I'm into metalcore, modded Minecraft, and exploring the intersection of mathematics and technology.
+Currently exploring quantitative development, C++, low-latency systems, and AI engineering.
 
-### Technologies
+I enjoy building products that solve my problems, experimenting with new technologies, and figuring out how to get projects into the hands of actual users.
 
-`TypeScript` · `JavaScript` · `PHP` · `Python` · `C#` · `C++`
+**Tech I work with:** TypeScript, JavaScript, PHP, Python, React, Laravel, .NET, PostgreSQL, Docker.
 
-`React` · `Next.js` · `Laravel` · `FastAPI` · `.NET`
+**Looking to collaborate on:** Low-latency systems, performance engineering, and indie software projects.
 
-`PostgreSQL` · `MySQL` · `Docker` · `AWS` · `Linux`
+**Ask me about:** Full-stack development, software architecture, and building web applications.
+
+**Outside of code:** Metalcore, modded Minecraft, mathematics, and fitness.
+
+**Find me on Instagram:** [@itslukecoded](https://www.instagram.com/itslukecoded/)
