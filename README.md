@@ -1,4 +1,4 @@
-# Hey, I'm jsalg-byte, itslukecoded, and Jon!
+# Hi! I'm jsalg-byte, itslukecoded, and Jon!
 
 I'm a software engineer with 7+ years of experience building applications, backend systems, and products across the stack. I'm interested in how things work under the hood, how to make them faster, and how to turn ideas into products people actually use.
 
