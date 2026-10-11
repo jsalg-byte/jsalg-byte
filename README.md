@@ -1,26 +1,19 @@
-# Hi, I'm Luke 👋
+# Hello there, I am jsalg-byte
 
-I'm a software engineer with 7+ years of experience building applications and systems across the stack. I enjoy figuring out how systems work under the hood, refining performance, and turning ideas into reliable software used by real people.
+I'm a software engineer with 7+ years of experience building applications across the stack. I enjoy working on products end to end, from frontend interfaces to APIs, integrations, and deployment.
 
-### Focus & Interests
+### Featured Projects
 
-- **Full-Stack & Systems**: Architecting responsive web, mobile, and backend services with TypeScript, Python, Dart, PostgreSQL, and Docker.
-- **AI Engineering**: Building local-first evaluation harnesses, structured LLM pipelines, and retrieval-augmented systems.
-- **Continuous Learning**: Actively exploring low-latency systems, quantitative development, and C++ as exploratory learning pursuits.
+- **[Transmute Flutter](https://github.com/jsalg-byte/transmute-flutter)** — A cross-platform fitness app built with Flutter, with workout tracking, offline support, and a dedicated API. [Live app](https://transmute.mzootfb.xyz)
+- **[Happy Morgue Mobile](https://github.com/jsalg-byte/happymorgue_mobile)** — A mobile storefront integrating Shopify's Storefront GraphQL API, with a persistent audio player.
+- **[Cliptor Who](https://github.com/jsalg-byte/cliptorwho)** — A livestream clipping tool built around FFmpeg and stream analysis.
 
----
+### Current Interests
 
-### Selected Projects
-
-- [**Transmute Flutter**](https://github.com/jsalg-byte/transmute-flutter) — Cross-platform, offline-first strength training application built with Flutter, Riverpod, and Clean Architecture. Features idempotent mutation replay and adaptive responsive layouts. ([Live Web App](https://transmute.mzootfb.xyz))
-- [**Cliptor Who**](https://github.com/jsalg-byte/cliptorwho) — Full-stack livestream clipping command center that identifies broadcast highlights using chat velocity spikes, audio amplitude peaks, and frame motion analysis via FFmpeg.
-- [**Songsterr to GP5 Converter**](https://github.com/jsalg-byte/Songsterr-to-GP5-Converter) — FastAPI utility and retro Windows XP web tool that extracts cloud tablature data via a 3-strategy fallback cascade and encodes binary Guitar Pro 5 files.
-- [**AI Engineering Career Studio**](https://github.com/jsalg-byte/learn2) — Zero-dependency, local-first interactive career curriculum and skill verification workbench covering modern AI engineering over 30+ weeks.
-
----
+Full-stack development, backend systems, C++, mathematics, and quantitative development.
 
 ### Outside of Code
 
-When I'm not programming, you'll usually find me listening to metalcore, playing guitar, tinkering with modded Minecraft, studying mathematics, or training in the gym.
+Metalcore, guitar, modded Minecraft, and the gym.
 
-- **Instagram**: [@itslukecoded](https://www.instagram.com/itslukecoded/)
+**Instagram:** [@itslukecoded](https://www.instagram.com/itslukecoded/)
