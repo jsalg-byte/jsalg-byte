@@ -5,7 +5,9 @@ I'm a software engineer with 7+ years of experience building applications across
 ### Featured Projects
 
 - **[Transmute Flutter](https://github.com/jsalg-byte/transmute-flutter)** — A cross-platform fitness app built with Flutter, with workout tracking, offline support, and a dedicated API. [Live app](https://transmute.mzootfb.xyz)
+
 - **[Happy Morgue Mobile](https://github.com/jsalg-byte/happymorgue_mobile)** — A mobile storefront integrating Shopify's Storefront GraphQL API, with a persistent audio player.
+
 - **[Cliptor Who](https://github.com/jsalg-byte/cliptorwho)** — A livestream clipping tool built around FFmpeg and stream analysis.
 
 ### Currently exploring
