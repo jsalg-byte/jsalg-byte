@@ -17,5 +17,3 @@ I'm a software engineer with 7+ years of experience building applications, backe
 `React` · `Next.js` · `Laravel` · `FastAPI` · `.NET`
 
 `PostgreSQL` · `MySQL` · `Docker` · `AWS` · `Linux`
-
-- Pre-coding is more important than the coding itself.
