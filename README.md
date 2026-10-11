@@ -16,6 +16,6 @@ C++, quantitative development, mathematics, and low-latency systems.
 
 ### Outside of Code
 
-Metalcore, guitar, modded Minecraft, and the gym.
+Metalcore, books, modded Minecraft, and the gym.
 
 **Instagram:** [@itslukecoded](https://www.instagram.com/itslukecoded/)
